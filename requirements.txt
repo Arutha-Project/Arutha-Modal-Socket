@@ -1,0 +1,10 @@
+tensorflow
+numpy
+streamlit
+matplotlib
+pillow
+flask
+flask_socketio
+flask_cors
+mediapie
+scikit-learn
